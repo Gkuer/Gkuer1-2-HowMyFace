@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://howmyface5080.netlify.app/sitemap.xml
