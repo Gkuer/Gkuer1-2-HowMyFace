@@ -1,8 +1,8 @@
 
 # 내얼굴어때<br>
 웹 : https://howmyface5080.netlify.app/<br>
-어플리케이션 : https://play.google.com/store/apps/details?id=com.gkuer.howaboutyourface<br><br>
-github : https://github.com/Gkuer/gkuer1-howaboutmyface
+어플리케이션 : https://play.google.com/store/apps/details?id=com.gkuer.howaboutyourface<br>
+github : https://github.com/Gkuer/gkuer1-howaboutmyface<br><br>
 
 머신러닝으로 잘생긴 남자들을 학습시켰습니다.<br><br>
 
